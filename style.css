@@ -64,6 +64,7 @@ img {
 h1 {
     margin: 12px 0px;
     line-height: 150%;
+    font-size: 20px;
     color: var(--grey-950);
     cursor: pointer;
 }
